@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammed Ramzy
 - 👀 I’m interested in Computer Sciences
-- 🌱 I’m currently learning Mobile Applications Development using Flutter Framework and i have a deep knowledge in Data Analysis using python, SQL 
+- 🌱 I’m currently learning Mobile Applications Development using Flutter Framework and i have a deep knowledge in Data Analysis using python, SQL and Power BI
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
